@@ -1,5 +1,5 @@
 # hello-world
-My first Repository on GitHub
+My first Repository on GitHub, now synced to Atom on my laptop!
 
 ABOUT ME:
 I am a senior software engineer and solution architect, specializing in Enterprise Java, JavaScript (vanilla and Dojo framework), HTML5 and CSS3.  I build geospatial applications for Smart City use cases.
