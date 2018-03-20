@@ -7,8 +7,6 @@ I am a senior software engineer and solution architect, specializing in Enterpri
 I've created this Repository to experiment with various technologies here.  
 
 I'm interested in learning about:
-Git Command Line
-Atom
 Kafka
 D3.js
 Node.js
@@ -18,6 +16,7 @@ IBM Cloud
 I've recently learned:
 CSS Grid
 Git / GitHub
+Atom (with GitHub)
 
 I have "mastered":
 Enterprise Java
